@@ -30,6 +30,7 @@
     マニュアル（manual.htm）は、Pythonで再実装された「ＤＲＳ Python版（V2.5）」の操作方法を説明します（画像は旧ソフトウェアのものです）。
   </div>
 </section>
+<br>
 Source Code(ソースコード)<br>
 https://github.com/DAIKICHI-PSC/DRS/archive/refs/tags/2.5.zip<br><br>
 Excutable files(実行ファイル　ウイルスとして検出された場合は、使用を許可して下さい)<br>
