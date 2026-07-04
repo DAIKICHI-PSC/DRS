@@ -24,10 +24,14 @@
     <h2>プログラム概要</h2>
   </div>
   <div class="card">
-    「ＤＲＳ」は、製造した製品の日常検査を、極力自動化する為のソフトウェアです。<br>
     RS232Cが付いた、マイクロ、ハイトゲージ、投影機等に対応します。<br>
     作業者が、担当する機番に製品（寸法公差データ）を事前登録する事で、測定結果が自動で保存されます（ファイル名に担当者名、品名品番、機番、測定日が付与されます）。<br>
     測定値は、スペースキーを押すだけで、自動で記録されます。<br><br>
     マニュアル（manual.htm）は、Pythonで再実装された「ＤＲＳ Python版（V2.5）」の操作方法を説明します（画像は旧ソフトウェアのものです）。
   </div>
 </section>
+Source Code(ソースコード)
+https://github.com/DAIKICHI-PSC/DRS/archive/refs/tags/2.5.zip
+
+Excutable files(実行ファイル　ウイルスとして検出された場合は、使用を許可して下さい)
+https://github.com/DAIKICHI-PSC/DRS/releases/download/2.5/DRS_Python_2.5.zip
