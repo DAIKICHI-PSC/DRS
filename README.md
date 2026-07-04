@@ -5,7 +5,7 @@
 
 <!-- PAGE TITLE -->
 <div class="page-title">
-  <h1>ＤＲＳ ユーザーズマニュアル <span class="version">V2.5 Python版</span></h1>
+  <h1>ＤＲＳ <span class="version">V2.5 Python版</span></h1>
 </div>
 
 <!-- HERO -->
