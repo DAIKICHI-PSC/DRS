@@ -8,6 +8,16 @@
   <h1>ＤＲＳ ユーザーズマニュアル <span class="version">V2.5 Python版</span></h1>
 </div>
 
+<!-- HERO -->
+<div class="hero">
+  <h2>測定値自動入力システム</h2>
+  <p>日常検査の記録を効率化し、負荷低減・コスト削減・品質向上に貢献します</p>
+  <div class="img-wrap" style="margin-top:1.5rem;">
+    <img src="./manual.files/image074.jpg" alt="ＤＲＳ作業画面" style="max-height:260px;border-radius:8px;">
+    <div class="img-caption" style="color:rgba(255,255,255,0.8);">ＤＲＳ 作業画面</div>
+  </div>
+</div>
+
 <!-- NAV LINKS -->
 <nav class="nav-links">
   <a href="#overview">プログラム概要</a>
